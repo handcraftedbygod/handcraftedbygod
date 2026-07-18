@@ -1,32 +1,7 @@
-# handcraftedbygod
+### handcraftedbygod
 
-handcrafted, occasionally by a script. this donut re-spins itself every 30 minutes, live, via GitHub Actions — no image, just math running in a workflow.
+[spinning donut, live →](https://handcraftedbygod.github.io/ascii-donut/)
 
-<!--DONUT_START-->
-```
-       #$$$$$$$##**!!===;::~~~::;;===!!*####$##             
-      *#$$$$$$###*!!=;;:~-,,  ,--~::;=!!**###$##            
-      ##$$$$$###**!==;:~,        ,~:;==!**###$##*           
-     *#$$$$$$###**!=;:~-,         ,~:;=!**####$##           
-     *##$$$$$###**!=;:-,          ,-~;=!!*####$##*          
-    =##$$$$$$###*!!=;~-            ,~:;=!**###$##*          
-    !*##$$$$####*!==:~,            ,-:;=!*###$$$##!         
-    *###$$$$###***!=;~,             -:;=!*###$$$##*         
-    *###$$$$####**!=:~              -:;!!*##$$$$##*         
-   =**###$$$####**!!;~,             ,:;!**##$$$$##*=        
-   =**###$$$####**!!=:-             ,:=!*##$$$$$$#*!        
-   =!*####$$#####**!=;~             -:=!*##$$$$$$#*!        
-   =!*#####$$#####**!=:             ~=!*##$$$$$$$##!        
-   =!*#####$$$#####**!=~            :=*##$$$$$$$$#*!        
-   =!**#####$$######**!=            =*##$$$$$$$$##*!        
-   ;=**######$$$#####**!=          =!*#$$$$$$$$$##*!        
-   :=!**#####$$$$#####***=        =*##$$$$@$$$$$##*=        
-   ~=!!**######$$$$######**!     !*#$$$$@@@$$$$$##*=        
-    ;=!**######$$$$$$#######****##$$$$@@@@@@$$$##*!=        
-    ;=!***######$$$$$$$$$$#####$$$$$$@@@@@@$$$$##*!;        
-    :=!!!**######$$$$$$$$$$$$$$$$$@@@@@@@@$$$$##**!:        
-    ,;=!!***######$$$$$$$$$$$$$$$@@@@@@@@$$$$###*!=~        
-```
-<!--DONUT_END-->
-
-*rendered by [`render_donut.py`](render_donut.py), spun by [`.github/workflows/donut.yml`](.github/workflows/donut.yml)*
+- [ascii-donut](https://github.com/handcraftedbygod/ascii-donut) — terminal + web ASCII torus renderer
+- [eu-tech-internship-radar](https://github.com/handcraftedbygod/eu-tech-internship-radar) — daily-refreshing tracker of internship listings across major European tech hubs
+- [grill-me-skill](https://github.com/handcraftedbygod/grill-me-skill) — Socratic pre-build interviewer for Claude Code
