@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="34" viewBox="0 0 420 34">
+  <rect width="420" height="34" rx="8" fill="#000"/>
+  <rect x="0.5" y="0.5" width="419" height="33" rx="8" fill="none" stroke="#333"/>
+  <text x="24.0" y="22" fill="#fff" font-size="14" text-anchor="middle" opacity="0.15">∑<animate attributeName="opacity" values="0.15;1;0.15" dur="2.6s" begin="0.0s" repeatCount="indefinite"/></text>
+  <text x="52.6" y="22" fill="#fff" font-size="14" text-anchor="middle" opacity="0.15">∏<animate attributeName="opacity" values="0.15;1;0.15" dur="2.6s" begin="0.18s" repeatCount="indefinite"/></text>
+  <text x="81.2" y="22" fill="#fff" font-size="14" text-anchor="middle" opacity="0.15">∫<animate attributeName="opacity" values="0.15;1;0.15" dur="2.6s" begin="0.36s" repeatCount="indefinite"/></text>
+  <text x="109.8" y="22" fill="#fff" font-size="14" text-anchor="middle" opacity="0.15">π<animate attributeName="opacity" values="0.15;1;0.15" dur="2.6s" begin="0.54s" repeatCount="indefinite"/></text>
+  <text x="138.5" y="22" fill="#fff" font-size="14" text-anchor="middle" opacity="0.15">√<animate attributeName="opacity" values="0.15;1;0.15" dur="2.6s" begin="0.72s" repeatCount="indefinite"/></text>
+  <text x="167.1" y="22" fill="#fff" font-size="14" text-anchor="middle" opacity="0.15">∞<animate attributeName="opacity" values="0.15;1;0.15" dur="2.6s" begin="0.9s" repeatCount="indefinite"/></text>
+  <text x="195.7" y="22" fill="#fff" font-size="14" text-anchor="middle" opacity="0.15">≈<animate attributeName="opacity" values="0.15;1;0.15" dur="2.6s" begin="1.08s" repeatCount="indefinite"/></text>
+  <text x="224.3" y="22" fill="#fff" font-size="14" text-anchor="middle" opacity="0.15">≠<animate attributeName="opacity" values="0.15;1;0.15" dur="2.6s" begin="1.26s" repeatCount="indefinite"/></text>
+  <text x="252.9" y="22" fill="#fff" font-size="14" text-anchor="middle" opacity="0.15">±<animate attributeName="opacity" values="0.15;1;0.15" dur="2.6s" begin="1.44s" repeatCount="indefinite"/></text>
+  <text x="281.5" y="22" fill="#fff" font-size="14" text-anchor="middle" opacity="0.15">÷<animate attributeName="opacity" values="0.15;1;0.15" dur="2.6s" begin="1.62s" repeatCount="indefinite"/></text>
+  <text x="310.2" y="22" fill="#fff" font-size="14" text-anchor="middle" opacity="0.15">×<animate attributeName="opacity" values="0.15;1;0.15" dur="2.6s" begin="1.8s" repeatCount="indefinite"/></text>
+  <text x="338.8" y="22" fill="#fff" font-size="14" text-anchor="middle" opacity="0.15">∂<animate attributeName="opacity" values="0.15;1;0.15" dur="2.6s" begin="1.98s" repeatCount="indefinite"/></text>
+  <text x="367.4" y="22" fill="#fff" font-size="14" text-anchor="middle" opacity="0.15">∇<animate attributeName="opacity" values="0.15;1;0.15" dur="2.6s" begin="2.16s" repeatCount="indefinite"/></text>
+  <text x="396.0" y="22" fill="#fff" font-size="14" text-anchor="middle" opacity="0.15">Ω<animate attributeName="opacity" values="0.15;1;0.15" dur="2.6s" begin="2.34s" repeatCount="indefinite"/></text>
+</svg>
