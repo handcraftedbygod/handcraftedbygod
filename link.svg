@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="210" height="32" viewBox="0 0 210 32" font-family="ui-monospace, monospace">
+  <rect width="210" height="32" rx="8" fill="#000"/>
+  <rect x="0.5" y="0.5" width="209" height="31" rx="8" fill="none" stroke="#333"/>
+  <text x="105" y="20" fill="#fff" font-size="13" text-anchor="middle">interactive version &#8594;</text>
+</svg>

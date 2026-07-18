@@ -2,7 +2,7 @@
 
 ![spinning donut](donut.gif)
 
-[interactive version →](https://handcraftedbygod.github.io/ascii-donut/)
+[![interactive version](link.svg)](https://handcraftedbygod.github.io/ascii-donut/)
 
 <br>
 
